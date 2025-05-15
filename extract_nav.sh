@@ -29,4 +29,4 @@ NF >= 5 {
 }
 ' > "$OUTPUT_FILE"
 
-echo "✅ Data extraction complete. Check the file '$OUTPUT_FILE' in your folder."
+echo " Data extraction complete. Check the file '$OUTPUT_FILE' in your folder."
